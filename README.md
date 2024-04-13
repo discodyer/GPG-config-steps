@@ -140,3 +140,13 @@ Host github.com
 [credential "https://gitee.com"]
 	provider = generic
 ```
+
+## reference
+
+https://github.com/benpye/wsl-ssh-pageant
+
+https://gist.github.com/matusnovak/302c7b003043849337f94518a71df777
+
+https://lab.jinkan.org/2021/08/01/using-gpg-for-ssh-authentication-on-windows-10/
+
+https://developer.aliyun.com/article/848731#slide-9
